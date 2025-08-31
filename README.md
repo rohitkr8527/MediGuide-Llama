@@ -1,1 +1,2 @@
-# MediGuide-Llama
+# MediGuide
+## Finetunning Llamma on Medical Dataset
